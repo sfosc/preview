@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About SFOSC on Sustainable Free and Open Source Communities</title>
-    <link>https://sfosc.org/preview/about/</link>
-    <description>Recent content in About SFOSC on Sustainable Free and Open Source Communities</description>
+    <title>About SFOSC on </title>
+    <link>/about/</link>
+    <description>Recent content in About SFOSC on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Thu, 29 Nov 2018 12:12:57 -0800</lastBuildDate>
     
-	<atom:link href="https://sfosc.org/preview/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code of Conduct</title>
-      <link>https://sfosc.org/preview/about/code_of_conduct/</link>
+      <link>/about/code_of_conduct/</link>
       <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
       
-      <guid>https://sfosc.org/preview/about/code_of_conduct/</guid>
+      <guid>/about/code_of_conduct/</guid>
       <description>Contributor Covenant Code of Conduct Our Pledge In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 Our Standards Examples of behavior that contributes to creating a positive environment include:</description>
     </item>
     
     <item>
       <title>Contributing</title>
-      <link>https://sfosc.org/preview/about/contributing/</link>
+      <link>/about/contributing/</link>
       <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
       
-      <guid>https://sfosc.org/preview/about/contributing/</guid>
+      <guid>/about/contributing/</guid>
       <description>Request for Contributions We would love to have you help us evolve the principles, write new social contracts, and further explore what it means to create sustainable free and open source communities.
 In particular, we seek the following types of contributions:
  ideas: participate in an issues thread or start your own to voice your idea copy editing: contribute your expertise by helping us expand, clarify and proofing our content code: improve the design, usability and functionality of the sfosc page artwork: contribute graphics or any other artwork improving the presentation of sfosc  Read this guide on how to do that.</description>
@@ -34,10 +33,10 @@ In particular, we seek the following types of contributions:
     
     <item>
       <title>Membership</title>
-      <link>https://sfosc.org/preview/about/membership/</link>
+      <link>/about/membership/</link>
       <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
       
-      <guid>https://sfosc.org/preview/about/membership/</guid>
+      <guid>/about/membership/</guid>
       <description>Membership in the SFOSC Welcome! Anyone who is interested in contributing to the SFOSC in any way is welcome to become a member.
 Membership is not a requirement for participating in the community. Members may be consulted about governance of the community. For example through votes. The CONTRIBUTING GUIDELINES explain several ways you can contribute regardless of membership.
 Membership in the community is broad based, available to anyone who is participating in any fashion.</description>
@@ -45,29 +44,29 @@ Membership in the community is broad based, available to anyone who is participa
     
     <item>
       <title>Social Contract</title>
-      <link>https://sfosc.org/preview/about/social_contract/</link>
+      <link>/about/social_contract/</link>
       <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
       
-      <guid>https://sfosc.org/preview/about/social_contract/</guid>
+      <guid>/about/social_contract/</guid>
       <description>Introduction This document describe the social contract for the community around a piece of open source software (&amp;ldquo;the software&amp;rdquo;). It lays out the moral and ethical rules the community agrees to in order to ensure a long, healthy, sustainable life for the software.
 It is not a legal agreement, although sections of it reference legal agreements. It is a moral and ethical one - it is the foundation upon which the community is built.</description>
     </item>
     
     <item>
       <title>Trademark</title>
-      <link>https://sfosc.org/preview/about/trademark/</link>
+      <link>/about/trademark/</link>
       <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
       
-      <guid>https://sfosc.org/preview/about/trademark/</guid>
+      <guid>/about/trademark/</guid>
       <description>Trademark Policy The Sustainable Free and Open Source Community, and the SFOSC, are not currently trademarked. We do ask that, if you want to republish this content, you do so in line with the terms of our license. </description>
     </item>
     
     <item>
       <title>Voting</title>
-      <link>https://sfosc.org/preview/about/voting/</link>
+      <link>/about/voting/</link>
       <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
       
-      <guid>https://sfosc.org/preview/about/voting/</guid>
+      <guid>/about/voting/</guid>
       <description>Voting Guidelines Every member in the MEMBERSHIP file is allowed one vote. We will use Helios to organize the actual vote, and certify the results. </description>
     </item>
     
